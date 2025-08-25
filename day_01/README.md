@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 - Starting Out
 
 ## Table Of Contents
 - [Objectives](#Objectives)
